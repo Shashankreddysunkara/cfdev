@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     mysql2 (0.5.1)
-    rack (2.0.5)
+    rack (3.0.7)
     roda (3.8.0)
       rack
     sequel (5.8.0)
